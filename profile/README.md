@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Vinesh Singh</h1>
 <h3 align="center">Frontend developer who aims to write quality code</h3>
 
-<div align=center>
+<!-- <div align=center>
   <a href="https://www.linkedin.com/in/connect2vinesh/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <br><br>
- 
-</div>
+  <br><br> 
+</div> -->
 
 - 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Infogain to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
@@ -15,7 +14,7 @@
   - [Digital Clock Using HTML CSS & JavaScript](https://youtu.be/z4NKlhviYUY)
   - [Calculator using HTML CSS JavaScript](https://youtu.be/z4NKlhviYUY)
 
-- 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/connect2vinesh). You can also send me an email to vineshsingh90@gmail.com.
+- 📫 The best way to reach me is [LinkedIn](https://www.linkedin.com/in/connect2vinesh). You can also send me an email to vineshsingh90@gmail.com
 
 <br>
 
